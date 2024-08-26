@@ -3,8 +3,9 @@
 - 🌱 ETOU APRENDEDO A USAR A PLATAFORMA DO ALURA
 - 💞️ NAS MINHAS HORAS VAGAS GOSTO DE SAIR OU DORMI
 - 📫 MEU SONHO É ME FORMAR EM ADVOGACIA
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 ela\dela
+- ⚡
+- - ![](https://media1.tenor.com/m/YxXn07ofanQAAAAC/patrick-star-in-love.gif)
 
 <!---
 mariaeduarda2207/mariaeduarda2207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
